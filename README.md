@@ -8,7 +8,6 @@
 <br /><br />
 
 Mahasiswa Teknik Informatika di **UMRAH, Tanjungpinang**.<br />
-Suka ngulik data, bangun backend, dan gambar ERD sebelum ngoding.
 
 <a href="https://akbarlingga.github.io/"><img src="https://img.shields.io/badge/Portfolio-akbarlingga.github.io-C8343F?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://instagram.com/4kbarrzk"><img src="https://img.shields.io/badge/Instagram-4kbarrzk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -19,8 +18,8 @@ Suka ngulik data, bangun backend, dan gambar ERD sebelum ngoding.
 
 ### Sekarang
 
-- Magang sebagai **Software Engineer Intern** di PT Arus Digital Sinergi
-- Lagi belajar **Deep Learning**, **Odoo ERP**, dan **Flutter**
+- Magang as **Software Engineer Intern** di PT Arus Digital Sinergi
+- PLEASEEE **Deep Learning**, **Odoo ERP**, dan **Flutter**
 - Project terbaru: [Nocthify](https://github.com/AkbarLingga/Nocthify-erzak) dan [RuangAI](https://github.com/AkbarLingga/RuangAI)
 
 <p align="center">
