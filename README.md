@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2800&pause=900&color=C8343F&center=true&vCenter=true&width=560&lines=Halo%2C+aku+Akbar+Rizki+Lingga;Data+Science+%C2%B7+Backend+%C2%B7+System+Design;Belajar+dari+YouTube%2C+praktik+lewat+project" alt="Halo, aku Akbar Rizki Lingga" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=900&color=C8343F&center=true&vCenter=true&width=720&lines=Halo%2C+aku+Akbar+Rizki+Lingga;Data+Science+%C2%B7+Backend+%C2%B7+System+Design;Belajar+dari+YouTube%2C+praktik+lewat+project" alt="Halo, aku Akbar Rizki Lingga" />
 
-<img src="assets/akbar-pixel.gif" width="512" alt="Karakter pixel Akbar melambai dengan pose shaka di samping laptop" />
+<img src="assets/akbar-pixel.gif" width="512" alt="Karakter pixel Akbar duduk santai di sudut balok, kaki berayun, pose shaka di samping laptop" /><br />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,laravel,react,ts,postgres,mysql,prisma,flask,docker,git,linux&perline=8" width="512" alt="Python, Java, C++, C, PHP, Laravel, React, TypeScript, PostgreSQL, MySQL, Prisma, Flask, Docker, Git, Linux" />
+
+<br /><br />
 
 Mahasiswa Teknik Informatika di **UMRAH, Tanjungpinang**.<br />
 Suka ngulik data, bangun backend, dan gambar ERD sebelum ngoding.
@@ -13,12 +16,6 @@ Suka ngulik data, bangun backend, dan gambar ERD sebelum ngoding.
 <a href="mailto:akbarlingga423@gmail.com"><img src="https://img.shields.io/badge/Gmail-Kirim_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
-
-### Yang biasa kupakai
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,laravel,react,ts,postgres,mysql,prisma,flask,docker,git,linux&perline=8" alt="Python, Java, C++, C, PHP, Laravel, React, TypeScript, PostgreSQL, MySQL, Prisma, Flask, Docker, Git, Linux" />
-</p>
 
 ### Sekarang
 
